@@ -1,4 +1,8 @@
-# product-and-cart
+# Grocery Shopping
+
+# By
+
+## John Njau
 
 ## Project setup
 ```
